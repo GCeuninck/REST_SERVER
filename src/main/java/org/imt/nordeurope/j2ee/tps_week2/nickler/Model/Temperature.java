@@ -1,7 +1,6 @@
 package org.imt.nordeurope.j2ee.tps_week2.nickler.Model;
 
 import java.time.LocalDate;
-import java.util.Date;
 
 public class Temperature {
     private Integer temperature;
